@@ -1,0 +1,1 @@
+Rename/copy your CV PDF to public/cv.pdf before deploying.
